@@ -1,7 +1,7 @@
 %{"blacksmith": {:git, "git://github.com/batate/blacksmith.git", "b728480b4990f4e65d24d1245e0b2c1673299126", []},
   "certifi": {:hex, :certifi, "0.4.0"},
   "combine": {:hex, :combine, "0.7.0"},
-  "comeonin": {:hex, :comeonin, "2.0.3"},
+  "comeonin": {:hex, :comeonin, "2.1.1"},
   "connection": {:hex, :connection, "1.0.2"},
   "cowboy": {:hex, :cowboy, "1.0.4"},
   "cowlib": {:hex, :cowlib, "1.0.2"},

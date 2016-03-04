@@ -53,7 +53,7 @@ defmodule PhoenixTokenAuth.Mixfile do
         {:cowboy, "~> 1.0.0"},
         {:phoenix, "~> 1.1.0"},
         {:ecto, "~> 1.0"},
-        {:comeonin, "~> 2.0.0"},
+        {:comeonin, "~> 2.1"},
         {:postgrex, ">= 0.6.0"},
         {:joken, "~> 0.13.1"},
         {:poison, "~> 1.5.0"},
